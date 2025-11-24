@@ -31,14 +31,3 @@ The goal was to decouple the application from the infrastructure, ensuring it ru
 
 ---
 
-## 🚀 How to Run Locally
-
-### Prerequisites
-* Docker Desktop
-* Minikube (or any local K8s cluster)
-* `kubectl` CLI tool
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR-USERNAME/devops-intern-project.git](https://github.com/YOUR-USERNAME/devops-intern-project.git)
-cd devops-intern-project
